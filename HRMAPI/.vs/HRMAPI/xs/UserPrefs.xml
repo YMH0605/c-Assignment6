@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{94A5366D-87E3-4E75-9DF2-256C2DEC793A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ApplicationCore FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ApplicationCoer/Class1.cs">
+    <Files>
+      <File FileName="HRMAPI/Controllers/WeatherForecastController.cs" />
+      <File FileName="HRMAPI/Program.cs" />
+      <File FileName="HRMAPI/Controllers/EmployeeController.cs" />
+      <File FileName="HRMAPI/appsettings.json" Line="13" Column="3" />
+      <File FileName="HRMAPI/Models/EmployeeModel.cs" />
+      <File FileName="HRMAPI/Properties/launchSettings.json" />
+      <File FileName="HRMAPI/Utility/MiddlewareExtension.cs" />
+      <File FileName="HRMAPI/Dockerfile" />
+      <File FileName="docker-compose.yml" />
+      <File FileName="../ApplicationCoer/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HRMAPI" expanded="True">
+            <Node name="HRMAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HRMAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>../Infrastructure/Infrastructure.csproj</String>
+    <String>../ApplicationCore/ApplicationCore.csproj</String>
+  </DisabledProjects>
+</Properties>

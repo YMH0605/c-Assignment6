@@ -1,0 +1,12 @@
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/bin/Debug/net7.0/ApplicationCore.deps.json
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/bin/Debug/net7.0/ApplicationCore.dll
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/bin/Debug/net7.0/ApplicationCore.pdb
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/obj/Debug/net7.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/obj/Debug/net7.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/obj/Debug/net7.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/obj/Debug/net7.0/ApplicationCore.AssemblyInfo.cs
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/obj/Debug/net7.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/obj/Debug/net7.0/ApplicationCore.dll
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/obj/Debug/net7.0/refint/ApplicationCore.dll
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/obj/Debug/net7.0/ApplicationCore.pdb
+/Users/yuminghao/Projects/HRMMVC/ApplicationCore/obj/Debug/net7.0/ref/ApplicationCore.dll
